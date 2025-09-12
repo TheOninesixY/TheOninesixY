@@ -1,5 +1,5 @@
 ## 你好！👋
 
-我的网站太阴间了！
+这是一个我随便建着玩的网站，可能有点“不专业”，但希望你能喜欢！
 
-[查看我的网站](https://theoninesixy.github.io)
+[随便看看](https://theoninesixy.github.io)
