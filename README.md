@@ -1,8 +1,8 @@
 ## 你好！👋
 
-### 试试最新的QingTab！
+### 试试最新的HotmelOS！
 
-[瞅瞅](https://theoninesixy.github.io/Tools/QingTab/)
+[瞅瞅](https://hotmelos.pages.dev)
 
 ### 我养的龙
 
