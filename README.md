@@ -1,8 +1,4 @@
-## 你好！👋
-
-### 试试最新的HotmelOS！
-
-[瞅瞅](https://hotmelos.pages.dev)
+## 你好
 
 ### 我养的龙
 
