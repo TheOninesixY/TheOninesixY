@@ -1,5 +1,5 @@
-### Hi,I'm
-![TheOninesixY](logo.big.svg)
+### Hello! I'm
+[![TheOninesixY](logo.big.svg)](https://oninesixy.qzz.io)
 
 ---
 
