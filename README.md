@@ -1,7 +1,7 @@
 ![Hello! I'm TheOninesixY!](https://tevg.onsy.qzz.io/font=Lavishly_Yours-size=60px-color=%232563eb-weight=400/?Hello!%20I'm%20TheOninesixY!)
 ---
 
-### My dragons
+### ![My dragons](https://tevg.onsy.qzz.io/font=Space_Grotesk,Noto_Sans_SC,Noto_Emoji-size=20px/?My%20dragons)
 
 [![Dragon Cave: Adopt one today!](https://dragcave.net/image/BTKPO.gif)](https://dragcave.net/view/BTKPO)
 [![Dragon Cave: Adopt one today!](https://dragcave.net/image/8oAmQ.gif)](https://dragcave.net/view/8oAmQ)
@@ -16,6 +16,6 @@
 [![Dragon Cave: Adopt one today!](https://dragcave.net/image/cRYCN.gif)](https://dragcave.net/view/cRYCN)
 [![Dragon Cave: Adopt one today!](https://dragcave.net/image/Qbt9B.gif)](https://dragcave.net/view/Qbt9B)
 
-### My blog
+### ![My blog](https://tevg.onsy.qzz.io/font=Space_Grotesk,Noto_Sans_SC,Noto_Emoji-size=20px/?My%20blog)
 
 [oninesixy.qzz.io](https://oninesixy.qzz.io)
