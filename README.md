@@ -1,6 +1,4 @@
-### Hello! I'm
-[![TheOninesixY](logo.big.svg)](https://oninesixy.qzz.io)
-
+![Hello! I'm TheOninesixY!](https://tevg.onsy.qzz.io/font=Lavishly_Yours-size=60px-color=%232563eb-weight=400/?Hello!%20I'm%20TheOninesixY!)
 ---
 
 ### My dragons
