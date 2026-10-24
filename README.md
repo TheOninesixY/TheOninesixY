@@ -1,6 +1,9 @@
-## 你好
+### Hi,I'm
+![TheOninesixY](logo.big.svg)
 
-### 我养的龙
+---
+
+### My dragons
 
 [![Dragon Cave: Adopt one today!](https://dragcave.net/image/BTKPO.gif)](https://dragcave.net/view/BTKPO)
 [![Dragon Cave: Adopt one today!](https://dragcave.net/image/8oAmQ.gif)](https://dragcave.net/view/8oAmQ)
@@ -15,8 +18,6 @@
 [![Dragon Cave: Adopt one today!](https://dragcave.net/image/cRYCN.gif)](https://dragcave.net/view/cRYCN)
 [![Dragon Cave: Adopt one today!](https://dragcave.net/image/Qbt9B.gif)](https://dragcave.net/view/Qbt9B)
 
-### 我的破网站
+### My blog
 
-嗯，很垃圾的
-
-[瞅瞅](https://theoninesixy.github.io)
+[oninesixy.qzz.io](https://oninesixy.qzz.io)
