@@ -20,5 +20,5 @@
 
 ### ![My blog](https://tevg.onsy.qzz.io/font=Space_Grotesk,Noto_Sans_SC,Noto_Emoji-size=30px-color=%232563eb/?My%20blog)
 
-[![oninesixy.qzz.io](https://tevg.onsy.qzz.io/font=Space_Grotesk,Noto_Sans_SC,Noto_Emoji-size=20px-color=%232563eb/?oninesixy.qzz.io)](https://oninesixy.qzz.io)<br>
-[![theoninesixy.github.io](https://tevg.onsy.qzz.io/font=Space_Grotesk,Noto_Sans_SC,Noto_Emoji-size=20px-color=%232563eb/?theoninesixy.github.io)](https://theoninesixy.github.io)
+[![oninesixy.qzz.io](https://tevg.onsy.qzz.io/font=Space_Grotesk,Noto_Sans_SC,Noto_Emoji-size=20px-color=%232563eb/?-%20oninesixy.qzz.io)](https://oninesixy.qzz.io)<br>
+[![theoninesixy.github.io](https://tevg.onsy.qzz.io/font=Space_Grotesk,Noto_Sans_SC,Noto_Emoji-size=20px-color=%232563eb/?-%20theoninesixy.github.io)](https://theoninesixy.github.io)
